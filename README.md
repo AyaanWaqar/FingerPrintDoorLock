@@ -1,0 +1,2 @@
+# FingerPrint Sensor 
+I worked with a fingerprint sensor module on Arduino to build a secure safe, programming it to recognize and verify unique fingerprints. This project introduced me to biometric technology, enhancing my understanding of security and access control systems. Fingerprint sensors are widely used in personal security applications, from safes to smartphones, making them a valuable addition to modern security projects.
